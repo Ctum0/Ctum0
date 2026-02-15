@@ -1,12 +1,14 @@
 <h1 align="center">⚡ Sithum Ranasinghe</h1>
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=39FF14&vCenter=true&width=600&lines=Initializing+recon.sh...;Target:+Web+Application+Logic;Target:+Active+Directory;Objective:+CEH+Certification;Mastery+begins+when+motivation+ends." alt="Live Terminal Typing" />
 </div>
 
 > *"Mastery begins when motivation ends."*
 
+<div align="justify">
 I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka. My primary focus is Offensive Security, identifying web application vulnerabilities, and developing tactical automation scripts. I am building a foundation based on discipline, deep technical understanding, and the continuous execution of the daily standard.
+</div>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sithum-ranasinghe-03b672353/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -17,7 +19,7 @@ I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka
 
 ---
 
-### 🎯 Current Operations
+### 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚘𝚗𝚜
 - **Academic:** B.Sc. Cybersecurity @ APIIT
 - **Active Recon:** Web Vulnerability Research & Exploitation (PortSwigger)
 - **Upcoming Engagements:** Certified Ethical Hacker (CEH) Preparation & Active Directory
@@ -25,7 +27,7 @@ I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka
 
 ---
 
-### 💻 The Arsenal
+### 💻 𝚃𝚑𝚎 𝙰𝚛𝚜𝚎𝚗𝚊𝚕
 <p align="left">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -36,14 +38,13 @@ I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka
 
 ---
 
-### 🖥️ Operator Log & System Status
+### 🖥️ 𝙾𝚙𝚎𝚛𝚊𝚝𝚘𝚛 𝙻𝚘𝚐 & 𝚂𝚢𝚜𝚝𝚎𝚖 𝚂𝚝𝚊𝚝𝚞𝚜
 
 ```bash
 ctum@kali:~$ ./check_status.sh --verbose
 
 [*] RUNNING DIAGNOSTICS...
 [+] Core Directive : "You get what you fight for, not what you wish for."
-[+] Protocol       : Discipline execution. Doing it even when the feeling is gone.
 [+] Current Target : Web Application Security & Logic Exploitation
 [+] System Status  : ACTIVE.
 

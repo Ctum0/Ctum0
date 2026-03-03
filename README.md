@@ -21,7 +21,7 @@ I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka
 
 ### 📜 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 & 𝙰𝚜𝚜𝚎𝚝𝚜
 <div align="left">
-  <a href="[https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ](https://www.linkedin.com/redir/redirect/?url=https%3A%2F%2Fapi.badgr.io%2Fpublic%2Fassertions%2FllApMASaSzS_RxCK9ip4EQ&urlhash=xUqJ&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BB9%2FjT7A8QEu%2F8WaKmKUAaA%3D%3D)">
+  <a href="https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ">
     <img src="https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ/image" width="120" height="120" alt="Postman API Fundamentals Student Expert Badge">
   </a>
 </div>

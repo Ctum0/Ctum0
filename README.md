@@ -20,11 +20,7 @@ I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka
 ---
 
 ### 📜 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 & 𝙰𝚜𝚜𝚎𝚝𝚜
-<div align="left">
-  <a href="https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ?identity__email=sithumsryt%40gmail.com" target="_blank">
-    <img src="postman-badge.png" width="120" height="120" alt="Postman API Fundamentals Student Expert Badge">
-  </a>
-</div>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ"><img width="120px" height="120px" src="https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ/image"></a><script async="async" src="https://badges.parchment.com/assets/widgets.bundle.js"></script></blockquote>
 
 ---
 

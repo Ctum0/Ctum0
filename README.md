@@ -1,13 +1,13 @@
 <h1 align="center">⚡ Sithum Ranasinghe</h1>
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=39FF14&vCenter=true&width=600&lines=Initializing+recon.sh...;Target:+Web+Application+Logic;Target:+Active+Directory;Objective:+CEH+Certification;Mastery+begins+when+motivation+ends." alt="Live Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=16&pause=1000&color=39FF14&vCenter=true&width=600&lines=Initializing+recon.sh...;Target:+Web+Application+Logic;Target:+API+Architecture;Objective:+CEH+Certification;Mastery+begins+when+motivation+ends." alt="Live Terminal Typing" />
 </div>
 
 > *"Mastery begins when motivation ends."*
 
 <div align="justify">
-I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka. My primary focus is Offensive Security, identifying web application vulnerabilities, and developing tactical automation scripts. I am building a foundation based on discipline, deep technical understanding, and the continuous execution of the daily standard.
+I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka. My primary focus is Offensive Security, identifying web application and API vulnerabilities, and developing tactical automation scripts. I am building a foundation based on discipline, deep technical understanding, and the continuous execution of the daily standard.
 </div>
 
 <p align="left">
@@ -19,9 +19,19 @@ I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka
 
 ---
 
+### 📜 𝙲𝚎𝚛𝚝𝚒𝚏𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜 & 𝙰𝚜𝚜𝚎𝚝𝚜
+<div align="left">
+  <a href="https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ">
+    <img src="https://badges.parchment.com/public/assertions/llApMASaSzS_RxCK9ip4EQ/image" width="120" height="120" alt="Postman API Fundamentals Student Expert Badge">
+  </a>
+</div>
+
+---
+
 ### 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚘𝚗𝚜
 - **Academic:** B.Sc. Cybersecurity @ APIIT
-- **Active Recon:** Web Vulnerability Research & Exploitation (PortSwigger)
+- **Active Recon:** API Penetration Testing (APIsec University) & OWASP Juice Shop
+- **Completed:** PortSwigger Web Security Core Labs & Postman API Fundamentals
 - **Upcoming Engagements:** Certified Ethical Hacker (CEH) Preparation & Active Directory
 - **Scripting:** Developing custom Python logic for automated exploitation
 
@@ -33,6 +43,7 @@ I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5gIeEwk5zK9v+gAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAuUlEQVQ4y82UwQ3CMAxF34wFWIBFWIEFWIQFWIEFWIEFWIBF2ICNwg2sQIuwABuwABuwABuwABuwABuwABvwL+yUoCQkSOz158//+yRJQpIkJElCkiQkSUKSJCRJQpIkJElCkiQkSUKSJCRJQpIkJElCkiQkSUKSJCRJQpIkJElCkiQkSUKSJCRJQpIkJElCkiQkSUKSJCRJQpIkJElCkiQkSUKSJCRJQpIkJElCkiQkSUKSJCRJQn4b+wG4W1/g3wAAAABJRU5ErkJggg==&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
@@ -45,13 +56,13 @@ ctum@kali:~$ ./check_status.sh --verbose
 
 [*] RUNNING DIAGNOSTICS...
 [+] Core Directive : "You get what you fight for, not what you wish for."
-[+] Current Target : Web Application Security & Logic Exploitation
+[+] Current Target : API Architecture & Live-Fire Web Exploitation
 [+] System Status  : ACTIVE.
 
 ctum@kali:~$ tail -n 3 ~/.bash_history
-python3 custom_exploit_logic.py --target 10.10.x.x
 burpsuite &
-exit
+postman &
+curl -I -X OPTIONS [http://10.10.](http://10.10.)x.x/api/v1/users
 
 ctum@kali:~$ logout
 Connection to kali closed.

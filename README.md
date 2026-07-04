@@ -59,7 +59,7 @@ I am a Cybersecurity undergraduate at APIIT, operating out of Colombo, Sri Lanka
 ## 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙾𝚙𝚎𝚛𝚊𝚝𝚒𝚘𝚗𝚜
 
 - **Academic:** B.Sc. Cybersecurity @ APIIT
-- **Current Focus:** Pursuing CEH Certification, Detection Engineering & Security Operations
+- **Current Focus:** CEH Certification, Detection Engineering & Security Operations
 - **Research Areas:** Threat Detection, Incident Investigation, Network Security & Security Monitoring
 - **Building:** Detection-focused Security Projects & Python Automation
 - **Laboratory:** Proxmox Virtual Infrastructure & Practical Security Research
@@ -115,7 +115,6 @@ ctum@kali:~$ ./check_status.sh --verbose
 
 [+] Operational Philosophy : "Visibility precedes detection."
 [+] Current Target         : Detection Engineering & Security Operations
-[+] Current Build          : Blue Team Portfolio
 [+] Research Mode          : EXECUTING
 [+] System Status          : ONLINE
 
